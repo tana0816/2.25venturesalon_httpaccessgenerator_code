@@ -1,6 +1,0 @@
-c:\users\hiroakit\documents\visual studio 2013\Projects\venturesalonsample\venturesalonsample\bin\venturesalonsample.dll.config
-c:\users\hiroakit\documents\visual studio 2013\Projects\venturesalonsample\venturesalonsample\bin\venturesalonsample.dll
-c:\users\hiroakit\documents\visual studio 2013\Projects\venturesalonsample\venturesalonsample\bin\venturesalonsample.pdb
-c:\users\hiroakit\documents\visual studio 2013\Projects\venturesalonsample\venturesalonsample\obj\Release\venturesalonsample.csprojResolveAssemblyReference.cache
-c:\users\hiroakit\documents\visual studio 2013\Projects\venturesalonsample\venturesalonsample\obj\Release\venturesalonsample.dll
-c:\users\hiroakit\documents\visual studio 2013\Projects\venturesalonsample\venturesalonsample\obj\Release\venturesalonsample.pdb
